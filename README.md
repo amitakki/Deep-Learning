@@ -15,3 +15,6 @@
 - [Convolutional Neural Network-Explainer](https://poloclub.github.io/cnn-explainer/)
 
 ## Recurrent Neural Networks
+
+## Graph Neural Networks
+- [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/)
