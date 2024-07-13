@@ -11,10 +11,13 @@
 - [ImageNet Classification with Deep CNN](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
 
 ## Convolutional Neural Networks
-- [Convolutional Neural Network from Scratch](https://youtu.be/Lakz2MoHy6o?si=9EKQ1N12hXsxSUjG)
 - [Convolutional Neural Network-Explainer](https://poloclub.github.io/cnn-explainer/)
+#### YouTube Tutorials
+  - [Convolutional Neural Network from Scratch](https://youtu.be/Lakz2MoHy6o?si=9EKQ1N12hXsxSUjG)
+  - [CNN - Coding Lane](https://www.youtube.com/playlist?list=PLuhqtP7jdD8CD6rOWy20INGM44kULvrHu)
 
 ## Recurrent Neural Networks
-
+#### YouTube Tutorials
+  - [RNN - Coding Lane](https://www.youtube.com/playlist?list=PLuhqtP7jdD8ARBnzj8SZwNFhwWT89fAFr)
 ## Graph Neural Networks
 - [Graph Representation Learning Book](https://www.cs.mcgill.ca/~wlh/grl_book/)
