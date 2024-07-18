@@ -2,6 +2,7 @@
 - [Dive into Deep Learning](https://d2l.ai/)
 
 #### YouTube Tutorials
+- [MIT Course - Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Basics of Neural Networks - 3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks)
 - [Deep Learning Book Videos](https://www.youtube.com/playlist?list=PLbBjZEwyU7W1CDs3Vx_GOJ9b3EgYQB3GE)
 - [Deep Learning Explained](https://www.youtube.com/playlist?list=PLfsEr6YiELADCJ6TflLs0Um9PDg6QJ0_0)
