@@ -10,6 +10,7 @@
 #### Papers & Articles
 - [Deep learning- Yann LeCun1, Yoshua Bengio & Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
 - [ImageNet Classification with Deep CNN](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+- [NLP Newsletter and Papers](https://nlp.elvissaravia.com/)
 
 ## Convolutional Neural Networks
 - [Convolutional Neural Network-Explainer](https://poloclub.github.io/cnn-explainer/)
